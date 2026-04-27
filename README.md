@@ -44,13 +44,13 @@
 
 ---
 
-<h2 align="center">📝 古诗 📝</h2>
+<h2 align="center">📝 Quote 📝</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&size=20&pause=3000&color=1E3A5F&lines=%E5%AE%9D%E5%89%91%E9%94%8B%E4%BB%8E%E7%A3%A8%E9%9F%AD%E5%87%BA" alt="Line 1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=1E3A5F&lines=A%20smooth%20sea%20never%20made%20a%20skilled%20sailor" alt="Line 1" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&size=20&pause=3000&color=1E3A5F&lines=%E6%A2%85%E8%8A%B1%E9%A6%99%E8%87%AA%E8%8B%AD%E5%AF%92%E6%9D%A5" alt="Line 2" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=1E3A5F&lines=Excellence%20is%20not%20a%20destination%2C%20but%20a%20journey" alt="Line 2" />
 </p>
 
 ---
