@@ -47,10 +47,10 @@
 <h2 align="center">📝 古诗 📝</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&size=20&pause=2000&color=1E3A5F&lines=%E3%80%8A%E6%9D%8E%E7%99%BD%E3%80%8B%E6%B2%A1%E5%9C%A3%E6%9C%8B%E5%93%81" alt="Line 1" />
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&size=20&pause=2000&color=1E3A5F&lines=%E6%8E%92%E7%9F%B3%E4%B8%89%E5%8D%81%E4%B8%80%E7%AB%8B%E5%A4%9A%E5%80%AA" alt="Line 2" />
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&size=20&pause=2000&color=1E3A5F&lines=%E4%B9%B1%E7%9F%B3%E8%BD%AF%E9%A5%AE%E6%B0%94%E6%B0%94" alt="Line 3" />
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&size=20&pause=2000&color=1E3A5F&lines=%E8%8A%B1%E5%90%88%E9%87%8C%E9%82%A3%E5%AF%92%E5%90%8C" alt="Line 4" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&size=20&pause=3000&color=1E3A5F&lines=%E5%AE%9D%E5%89%91%E9%94%8B%E4%BB%8E%E7%A3%A8%E9%9F%AD%E5%87%BA" alt="Line 1" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&size=20&pause=3000&color=1E3A5F&lines=%E6%A2%85%E8%8A%B1%E9%A6%99%E8%87%AA%E8%8B%AD%E5%AF%92%E6%9D%A5" alt="Line 2" />
 </p>
 
 ---
