@@ -70,9 +70,7 @@
 <h2 align="center">📫 联系我 📫</h2>
 
 <p align="center">
-  <a href="mailto:yuqi8413@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <span style="color: #58A6FF; font-size: 18px;">yuqi8413@gmail.com</span>
 </p>
 
 ---
