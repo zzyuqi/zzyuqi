@@ -3,12 +3,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zzyuqi/zzyuqi/master/profile.png" alt="Profile" width="200" />
+  <img src="https://raw.githubusercontent.com/zzyuqi/zzyuqi/master/profile.png" alt="Profile" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/zzyuqi">
-    <img src="https://komarev.com/ghpvc/?username=zzyuqi&label=个人主页访问量&color=3B82F6&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=zzyuqi&label=个人主页访问量&color=3B82F6&style=for-the-badge" alt="Profile Views" width="30%" />
   </a>
 </p>
 
