@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="https://github.com/zzyuqi">
-    <img src="https://komarev.com/ghpvc/?username=zzyuqi&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=zzyuqi&label=个人主页访问量&color=3B82F6&style=flat-square" alt="Profile Views" />
   </a>
 </p>
 
 ---
 
-<h2 align="center">⚡ Tech Stack ⚡</h2>
+<h2 align="center">💻 技术栈 💻</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
@@ -24,7 +24,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
+<h2 align="center">📊 GitHub 统计 📊</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zzyuqi&show_icons=true&theme=default&locale=cn" alt="GitHub Stats" />
@@ -36,7 +36,7 @@
 
 ---
 
-<h2 align="center">📈 Contribution Graph 📈</h2>
+<h2 align="center">📈 贡献图 📈</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zzyuqi&theme=vue&locale=cn" alt="Contribution Graph" />
@@ -44,20 +44,20 @@
 
 ---
 
-<h2 align="center">📝 Quote 📝</h2>
+<h2 align="center">📝 寄语 📝</h2>
 
 <p align="center">
   <h3>
-    <span style="color: #1E3A5F; font-size: 24px;">A smooth sea never made a skilled sailor</span>
+    <span style="color: #1E3A5F; font-size: 24px;">长风破浪会有时，直挂云帆济沧海</span>
   </h3>
   <h3>
-    <span style="color: #58A6FF; font-size: 24px;">Excellence is not a destination, but a journey</span>
+    <span style="color: #58A6FF; font-size: 24px;">路漫漫其修远兮，吾将上下而求索</span>
   </h3>
 </p>
 
 ---
 
-<h2 align="center">🚀 Projects 🚀</h2>
+<h2 align="center">🚀 项目展示 🚀</h2>
 
 <p align="center">
   <a href="https://github.com/zzyuqi/api-proxy">
@@ -67,7 +67,7 @@
 
 ---
 
-<h2 align="center">📫 Contact Me 📫</h2>
+<h2 align="center">📫 联系我 📫</h2>
 
 <p align="center">
   <a href="mailto:yuqi8413@gmail.com">
