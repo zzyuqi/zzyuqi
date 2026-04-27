@@ -36,10 +36,10 @@
 
 ---
 
-<h2 align="center">🔥 GitHub Streak 🔥</h2>
+<h2 align="center">📈 Contribution Graph 📈</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=zzyuqi&theme=default&locale=cn" alt="Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zzyuqi&theme=github&locale=cn" alt="Contribution Graph" />
 </p>
 
 ---
