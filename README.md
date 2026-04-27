@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&width=435&lines=Hello%2C%20I'm%20%7Bname%7D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&width=435&lines=Hello%2C%20I'm%20ZYQ" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -53,7 +53,7 @@
 <h2 align="center">📫 Contact Me 📫</h2>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:yuqi8413@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
