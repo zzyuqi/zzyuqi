@@ -47,16 +47,10 @@
 <h2 align="center">📝 随笔 📝</h2>
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=vue" alt="Joke Card" />
-</p>
-
-<p align="center">
-  <pre>
-  「代码之道，在于简洁」
-  「技术之路，在于坚持」
-  「创意之源，在于热爱」
-  「分享之光，照亮他人」
-  </pre>
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=18&pause=2000&color=58A6FF&lines=%E3%80%8C%E4%BB%A3%E7%A0%81%E4%B9%8B%E9%81%93%EF%BC%8C%E5%9C%A8%E4%BA%8E%E7%AE%80%E6%B4%81%E3%80%8D" alt="Line 1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=18&pause=2000&color=58A6FF&lines=%E3%80%8C%E6%8A%80%E6%9C%AF%E4%B9%8B%E8%B7%AF%EF%BC%8C%E5%9C%A8%E4%BA%8E%E5%9D%9A%E6%8C%81%E3%80%8D" alt="Line 2" />
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=18&pause=2000&color=58A6FF&lines=%E3%80%8C%E5%88%9B%E6%84%8F%E4%B9%8B%E6%BA%90%EF%BC%8C%E5%9C%A8%E4%BA%8E%E7%83%AD%E7%88%B1%E3%80%8D" alt="Line 3" />
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=18&pause=2000&color=58A6FF&lines=%E3%80%8C%E5%88%86%E4%BA%AB%E4%B9%8B%E5%85%89%EF%BC%8C%E7%85%AE%E4%BA%AE%E4%BB%96%E4%BA%BA%E3%80%8D" alt="Line 4" />
 </p>
 
 ---
