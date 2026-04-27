@@ -1,13 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&width=435&lines=Hello%2C%20I'm%20ZYQ" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=3B82F6&width=435&lines=Hello%2C%20I'm%20ZYQ" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://github.com/zzyuqi">
-    <img src="https://komarev.com/ghpvc/?username=zzyuqi&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=zzyuqi&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Profile Views" />
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zzyuqi&theme=radical&column=4&margin-w=15&margin-h=15" alt="Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=zzyuqi&theme=calm&column=4&margin-w=15&margin-h=15" alt="Trophy" />
   </a>
 </p>
 
@@ -30,12 +30,12 @@
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zzyuqi&show_icons=true&theme=radical&locale=cn" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzyuqi&layout=compact&theme=radical&locale=cn" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zzyuqi&show_icons=true&theme=calm&locale=cn" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzyuqi&layout=compact&theme=calm&locale=cn" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zzyuqi&theme=radical&locale=cn" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zzyuqi&theme=calm&locale=cn" alt="Streak Stats" />
 </p>
 
 ---
@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://github.com/zzyuqi/api-proxy">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzyuqi&repo=api-proxy&theme=radical&show_owner=true" alt="API Proxy" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzyuqi&repo=api-proxy&theme=calm&show_owner=true" alt="API Proxy" />
   </a>
 </p>
 
@@ -61,5 +61,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=time&height=100&section=footer" alt="Footer" />
 </p>
