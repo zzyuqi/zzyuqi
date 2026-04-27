@@ -6,9 +6,6 @@
   <a href="https://github.com/zzyuqi">
     <img src="https://komarev.com/ghpvc/?username=zzyuqi&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Profile Views" />
   </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zzyuqi&theme=calm&column=4&margin-w=15&margin-h=15" alt="Trophy" />
-  </a>
 </p>
 
 ---
@@ -30,12 +27,19 @@
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zzyuqi&show_icons=true&theme=calm&locale=cn" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzyuqi&layout=compact&theme=calm&locale=cn" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zzyuqi&show_icons=true&theme=default&locale=cn" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zzyuqi&theme=calm&locale=cn" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzyuqi&layout=compact&theme=default&locale=cn" alt="Top Langs" />
+</p>
+
+---
+
+<h2 align="center">🔥 GitHub Streak 🔥</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=zzyuqi&theme=default&locale=cn" alt="Streak Stats" />
 </p>
 
 ---
@@ -44,7 +48,7 @@
 
 <p align="center">
   <a href="https://github.com/zzyuqi/api-proxy">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzyuqi&repo=api-proxy&theme=calm&show_owner=true" alt="API Proxy" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzyuqi&repo=api-proxy&theme=default&show_owner=true" alt="API Proxy" />
   </a>
 </p>
 
