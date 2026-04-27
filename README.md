@@ -47,15 +47,12 @@
 <h2 align="center">📝 Quote 📝</h2>
 
 <p align="center">
-  <pre>
-  ╔═══════════════════════════════════════╗
-  ║  A smooth sea never made a skilled    ║
-  ║            sailor                     ║
-  ║                                       ║
-  ║  Excellence is not a destination,     ║
-  ║       but a journey                   ║
-  ╚═══════════════════════════════════════╝
-  </pre>
+  <h3>
+    <span style="color: #1E3A5F; font-size: 24px;">A smooth sea never made a skilled sailor</span>
+  </h3>
+  <h3>
+    <span style="color: #58A6FF; font-size: 24px;">Excellence is not a destination, but a journey</span>
+  </h3>
 </p>
 
 ---
