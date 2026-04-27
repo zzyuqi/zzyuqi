@@ -47,10 +47,15 @@
 <h2 align="center">📝 Quote 📝</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=1E3A5F&lines=A%20smooth%20sea%20never%20made%20a%20skilled%20sailor" alt="Line 1" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=1E3A5F&lines=Excellence%20is%20not%20a%20destination%2C%20but%20a%20journey" alt="Line 2" />
+  <pre>
+  ╔═══════════════════════════════════════╗
+  ║  A smooth sea never made a skilled    ║
+  ║            sailor                     ║
+  ║                                       ║
+  ║  Excellence is not a destination,     ║
+  ║       but a journey                   ║
+  ╚═══════════════════════════════════════╝
+  </pre>
 </p>
 
 ---
