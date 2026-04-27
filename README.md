@@ -44,13 +44,13 @@
 
 ---
 
-<h2 align="center">📝 随笔 📝</h2>
+<h2 align="center">📝 古诗 📝</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=18&pause=2000&color=58A6FF&lines=%E3%80%8C%E4%BB%A3%E7%A0%81%E4%B9%8B%E9%81%93%EF%BC%8C%E5%9C%A8%E4%BA%8E%E7%AE%80%E6%B4%81%E3%80%8D" alt="Line 1" />
-  <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=18&pause=2000&color=58A6FF&lines=%E3%80%8C%E6%8A%80%E6%9C%AF%E4%B9%8B%E8%B7%AF%EF%BC%8C%E5%9C%A8%E4%BA%8E%E5%9D%9A%E6%8C%81%E3%80%8D" alt="Line 2" />
-  <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=18&pause=2000&color=58A6FF&lines=%E3%80%8C%E5%88%9B%E6%84%8F%E4%B9%8B%E6%BA%90%EF%BC%8C%E5%9C%A8%E4%BA%8E%E7%83%AD%E7%88%B1%E3%80%8D" alt="Line 3" />
-  <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=18&pause=2000&color=58A6FF&lines=%E3%80%8C%E5%88%86%E4%BA%AB%E4%B9%8B%E5%85%89%EF%BC%8C%E7%85%AE%E4%BA%AE%E4%BB%96%E4%BA%BA%E3%80%8D" alt="Line 4" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&size=20&pause=2000&color=1E3A5F&lines=%E3%80%8A%E6%9D%8E%E7%99%BD%E3%80%8B%E6%B2%A1%E5%9C%A3%E6%9C%8B%E5%93%81" alt="Line 1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&size=20&pause=2000&color=1E3A5F&lines=%E6%8E%92%E7%9F%B3%E4%B8%89%E5%8D%81%E4%B8%80%E7%AB%8B%E5%A4%9A%E5%80%AA" alt="Line 2" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&size=20&pause=2000&color=1E3A5F&lines=%E4%B9%B1%E7%9F%B3%E8%BD%AF%E9%A5%AE%E6%B0%94%E6%B0%94" alt="Line 3" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&size=20&pause=2000&color=1E3A5F&lines=%E8%8A%B1%E5%90%88%E9%87%8C%E9%82%A3%E5%AF%92%E5%90%8C" alt="Line 4" />
 </p>
 
 ---
