@@ -44,14 +44,10 @@
 
 <h2 align="center">📝 寄语 📝</h2>
 
-<p align="center">
-  <h3>
-    <span style="color: #1E3A5F; font-size: 24px;">长风破浪会有时，直挂云帆济沧海</span>
-  </h3>
-  <h3>
-    <span style="color: #58A6FF; font-size: 24px;">路漫漫其修远兮，吾将上下而求索</span>
-  </h3>
-</p>
+<p style="text-align:center;color:#1E3A5F;font-size:24px;">长风破浪会有时，直挂云帆济沧海</p>
+
+<p style="text-align:center;color:#58A6FF;font-size:24px;">路漫漫其修远兮，吾将上下而求索</p>
+
 
 ---
 
