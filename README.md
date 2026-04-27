@@ -45,11 +45,10 @@
 <h2 align="center">📝 寄语 📝</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=serif&size=22&pause=3000&color=1E3A5F&lines=%E9%95%BF%E9%A3%8E%E7%A0%B4%E6%B5%AA%E4%BC%9A%E6%9C%89%E6%97%B6%EF%BC%8C%E7%9B%B4%E6%8C%82%E4%BA%91%E5%B8%86%E6%B5%8E%E6%B2%BD%E6%B5%B7" alt="Line 1" />
+  <b><span style="font-size: 22px; color: #1E3A5F;">长风破浪会有时，直挂云帆济沧海</span></b>
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=serif&size=22&pause=3000&color=58A6FF&lines=%E8%B7%AF%E6%BC%AB%E6%BC%AB%E5%85%B6%E4%BF%AE%E8%BF%9C%E5%85%88%EF%BC%8C%E5%90%B4%E5%B0%86%E4%B8%8A%E4%B8%8B%E8%80%8C%E6%B1%82%E7%B4%A2" alt="Line 2" />
+  <b><span style="font-size: 22px; color: #58A6FF;">路漫漫其修远兮，吾将上下而求索</span></b>
 </p>
 
 
