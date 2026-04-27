@@ -39,7 +39,7 @@
 <h2 align="center">🔥 GitHub Streak 🔥</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=zzyuqi&theme=default&locale=cn" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=zzyuqi&theme=default&locale=cn" alt="Streak Stats" />
 </p>
 
 ---
