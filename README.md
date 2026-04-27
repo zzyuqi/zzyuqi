@@ -44,6 +44,23 @@
 
 ---
 
+<h2 align="center">📝 随笔 📝</h2>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=vue" alt="Joke Card" />
+</p>
+
+<p align="center">
+  <pre>
+  「代码之道，在于简洁」
+  「技术之路，在于坚持」
+  「创意之源，在于热爱」
+  「分享之光，照亮他人」
+  </pre>
+</p>
+
+---
+
 <h2 align="center">🚀 Projects 🚀</h2>
 
 <p align="center">
